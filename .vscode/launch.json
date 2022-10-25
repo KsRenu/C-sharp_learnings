@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+
+    ],
+    
+  "code-runner.executorMap": { "csharp": "scriptcs -script" }
+}
+
+//"code-runner.executorMap": {
+  //"csharp": "scriptcs -script" // temp workaround until next release. https://github.com/scriptcs/scriptcs/issues/1188#issuecomment-410728346
+//},
