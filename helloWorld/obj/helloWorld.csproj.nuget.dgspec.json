@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Renu/Desktop/GitHub/C-sharp_learnings/helloWorld/helloWorld.csproj": {}
+    "/Users/Renu/Desktop/GitHub/C-sharp_learnings/HelloWorld/HelloWorld.csproj": {}
   },
   "projects": {
-    "/Users/Renu/Desktop/GitHub/C-sharp_learnings/helloWorld/helloWorld.csproj": {
+    "/Users/Renu/Desktop/GitHub/C-sharp_learnings/HelloWorld/HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/helloWorld/helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/helloWorld/helloWorld.csproj",
+        "projectUniqueName": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/HelloWorld/HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/HelloWorld/HelloWorld.csproj",
         "packagesPath": "/Users/Renu/.nuget/packages/",
-        "outputPath": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/helloWorld/obj/",
+        "outputPath": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/HelloWorld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/Renu/.nuget/NuGet/NuGet.Config"
