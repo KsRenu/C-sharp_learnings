@@ -21,16 +21,54 @@ namespace HelloWorld
             // Console.WriteLine(vare2);
             // Console.ReadKey(true);
             
-            try{
-                var vare1="1234";
-                byte vare2=Convert.ToByte(vare1); 
-            }
-            catch(Exception){
-                Console.WriteLine("Ther is some error in the code.");
-            }
+            // try{
+            //     var vare1="1234";
+            //     byte vare2=Convert.ToByte(vare1); 
+            // }
+            // catch(Exception){
+            //     Console.WriteLine("Ther is some error in the code.");
+            // }
+
+            // Console.ReadKey(true);
+
+
+            // int a =10;
+            // System.Console.WriteLine(a);
+
+            //byte, int, float, char, str, bool
+
+            // int a=5;
+            // System.Console.WriteLine(a);
+            // double b= 1.0000009;
+            // System.Console.WriteLine(b);
+            // byte c=255;
+            // //byte d=(int)c+1;
+            // int d= c +1;
+            // byte f= (byte) d;
+            // System.Console.WriteLine(d);
+            // System.Console.WriteLine(f);
+
+            //System.Console.WriteLine("{0} {1}", int.MinValue, int.MaxValue);
+
 
             
-            Console.ReadKey(true);
+            // var a=8;
+            // System.Console.WriteLine(a>=8 && a>=8);
+
+
+
+
+
+
+        // Microsoft In-browser tutorial
+        // var name = "Renu";
+        // Console.WriteLine("Hello " + name + "!");
+
+        // var name = "Renu";
+        // Console.WriteLine($"Hello {name.ToUpper()}!");
+
+
+
         }
     }
 }
