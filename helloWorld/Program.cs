@@ -134,6 +134,11 @@ namespace HelloWorld
         // Console.WriteLine("Second: " + value++);
         // Console.WriteLine("Third: " + value);
         // Console.WriteLine("Fourth: " + (++value));
+
+
+        Random dice = new Random();
+        int roll = dice.Next(1, 7);
+        Console.WriteLine(roll);
         }
     }
 }
