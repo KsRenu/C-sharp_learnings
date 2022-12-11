@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/bin/Debug/net6.0/SampleProblems
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/bin/Debug/net6.0/SampleProblems.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/bin/Debug/net6.0/SampleProblems.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/bin/Debug/net6.0/SampleProblems.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/bin/Debug/net6.0/SampleProblems.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/refint/SampleProblems.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/SampleProblems.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/SampleProblems/obj/Debug/net6.0/ref/SampleProblems.dll
