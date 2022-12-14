@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/bin/Debug/net6.0/WorkoutProblems
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/bin/Debug/net6.0/WorkoutProblems.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/bin/Debug/net6.0/WorkoutProblems.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/bin/Debug/net6.0/WorkoutProblems.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/bin/Debug/net6.0/WorkoutProblems.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/refint/WorkoutProblems.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/WorkoutProblems.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/WorkoutProblems/obj/Debug/net6.0/ref/WorkoutProblems.dll
