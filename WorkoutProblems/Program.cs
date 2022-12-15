@@ -84,3 +84,55 @@ if (discountPercentage > 0)
 {
     Console.WriteLine($"Renew now and save {discountPercentage}%.");
 }
+
+
+
+//for each code
+int[] inventory = { 200, 450, 700, 175, 250 };
+int sum = 0;
+int bin = 0;
+foreach (int items in inventory)
+{
+    sum += items;
+    bin++;
+    Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+}
+Console.WriteLine($"We have {sum} items in inventory.");
+
+
+//Our team found a pattern. Orders that start with the letter "B" encounter fraud 25 times the normal rate. We will write new code that will output the Order ID of new orders where the Order ID starts with the letter "B". This will be used by our fraud team to investigate further.
+//solution
+string[] ids={"B123","C234","A345","C15","B177","G3003","C235","B179"};
+foreach(string id in ids ){
+    if(id.StartsWith("B")){
+        Console.WriteLine(id);
+    }
+}
+
+
+//increase the readability of the code
+/*
+   This code reverses a message, counts the number of times 
+   a particular character appears, then prints the results
+   to the console window.
+ */
+
+string originalMessage = "The quick brown fox jumps over the lazy dog.";
+
+char[] message = originalMessage.ToCharArray();
+Array.Reverse(message);
+
+int letterCount = 0;
+
+foreach (char letter in message)
+{
+    if (letter == 'o')
+    {
+        letterCount++;
+    }
+}
+
+string newMessage = new String(message);
+
+Console.WriteLine(newMessage);
+Console.WriteLine($"'o' appears {letterCount} times.");
