@@ -136,3 +136,210 @@ string newMessage = new String(message);
 
 Console.WriteLine(newMessage);
 Console.WriteLine($"'o' appears {letterCount} times.");
+
+//Calling a method in the same class
+
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+
+        static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
+}
+
+//Calling a method from a different class
+
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = Utility.Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+    }
+
+    class Utility
+    {
+        public static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
+}
+
+
+//Referencing a class in a different namespace
+
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = MyNewApp.Utilities.Utility.Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+    }
+}
+
+namespace MyNewApp.Utilities
+{
+    class Utility
+    {
+        public static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
+}
+
+
+//The using statement helps the compiler resolve namespaces, but with fewer keystrokes
+
+using MyNewApp.Utilities;
+
+namespace MyNewApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string value = "Microsoft Learn";
+            string reversedValue = Utility.Reverse(value);
+            Console.WriteLine($"Secret message: {reversedValue}");
+        }
+    }
+}
+
+namespace MyNewApp.Utilities
+{
+    class Utility
+    {
+        public static string Reverse(string message)
+        {
+            char[] letters = message.ToCharArray();
+            Array.Reverse(letters);
+            return new string(letters);
+        }
+    }
+}
+
+
+//challenge
+//Rewrite and fix the problematic code in the .NET Editor
+int[] numbers = { 4, 8, 15, 16, 23, 42 };
+foreach (int number in numbers)
+{
+    int total;
+    total += number;
+    if (number == 42)
+    {
+       bool found = true;
+    }
+}
+if (found) 
+{
+    Console.WriteLine("Set contains 42");
+}
+Console.WriteLine($"Total: {total}");
+
+//solution
+int[] numbers = { 4, 8, 15, 16, 23, 42 };
+bool found=false;
+int total=0;
+foreach (int number in numbers)
+{
+    
+    total += number;
+    if (number == 42)
+    {
+        found = true;
+    }
+}
+if (found) 
+{
+    Console.WriteLine("Set contains 42");
+}
+Console.WriteLine($"Total: {total}");
+
+
+//code that uses a conditional operator
+int saleAmount = 1001;
+
+int discount = saleAmount > 1000 ? 100 : 50;
+
+Console.WriteLine($"Discount: {discount}");
+
+//Console.WriteLine($"Discount: {(saleAmount > 1000 ? 100 : 50)}");
+
+//challenge
+// Use the Random class to generate a value. Based on the value, use the conditional operator to display either heads or tails.
+// There should be a 50% chance that the result is either heads or tails.
+// You should be able to accomplish the desired result in three lines of code or less.
+// Whether you get stuck and need to peek at the solution or you finish successfully, continue on to view a solution to this challenge.
+
+    Random coin = new Random();
+int flip = coin.Next(0, 2);
+Console.WriteLine((flip == 0) ? "heads" : "tails");
+
+
+//challenge
+// string permission = "Admin|Manager";
+// int level = 55;
+// If the user is an Admin with a level greater than 55, output the message:
+
+// Welcome, Super Admin user.
+// If the user is an Admin with a level less than or equal to 55, output the message:
+// Output
+
+// Welcome, Admin user.
+// If the user is a Manager with a level 20 or greater, output the message:
+// Output
+
+
+// Contact an Admin for access.
+// If the user is a Manager with a level less than 20, output the message:
+// Output
+
+
+// You do not have sufficient privileges.
+// If the user is not an Admin or a Manager, output the message:
+// Output
+
+
+// You do not have sufficient privileges.
+
+
+//solution
+string permission = "Admin";
+int level = 56;
+if ((permission!="Admin")&(permission!="Manager")){
+    Console.WriteLine("You do not have sufficient privileges.");
+}
+else{
+    if(permission=="Admin") Console.WriteLine($"{(level<=55?"Welcome, Admin user.":"Welcome, Super Admin user.")}");
+    else Console.WriteLine($"{(level>=20?"Contact an Admin for access.":"You do not have sufficient privileges.")}");
+}
