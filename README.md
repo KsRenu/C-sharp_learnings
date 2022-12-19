@@ -1,7 +1,19 @@
 # C-sharp_learnings
 Practise codes and learnings in C sharp language along with the projects
 
-Sample outputs for the following quetions: 
+# Learnings:
+        1.Store and retrieve data using string literals
+        2.Perform basic string formatting in c#
+        3.perform basic operations on numbers in c#
+        4.Call methods from .NET class library using C#
+        5.Adding decision logic to the code
+        6.Arrays and foreach
+        7.Conventions, comments and witespaces
+        8.Boolean expressions
+        9.Variable scope and logic using code blocks
+
+
+Sample codes implemented and outputs for the following questions: 
 
         1.Create a function that takes two numbers as arguments and returns their sum.
         
@@ -24,3 +36,9 @@ Sample outputs for the following quetions:
         10.Given an integer, create a function that returns the next prime. If the number is prime, return the number itself.
 
 <img width="1440" alt="Screenshot 2022-12-12 at 8 18 07 PM" src="https://user-images.githubusercontent.com/87896770/207075633-bf62698d-7780-40e9-9125-8348b1837941.png">
+
+# Folders-Description:
+        1.helloWorld: Creation of first project and first hello world program.
+        2.SampleProblems: Solutions solved for the above mentioned questions
+        3.WorkoutProblems: learnings and implementations of each topic
+        Notes : C#.pages contains the hints and notes .
