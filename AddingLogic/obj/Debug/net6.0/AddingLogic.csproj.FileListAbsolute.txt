@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/bin/Debug/net6.0/AddingLogic
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/bin/Debug/net6.0/AddingLogic.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/bin/Debug/net6.0/AddingLogic.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/bin/Debug/net6.0/AddingLogic.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/bin/Debug/net6.0/AddingLogic.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/refint/AddingLogic.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/AddingLogic.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/AddingLogic/obj/Debug/net6.0/ref/AddingLogic.dll
