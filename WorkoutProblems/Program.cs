@@ -343,3 +343,127 @@ else{
     if(permission=="Admin") Console.WriteLine($"{(level<=55?"Welcome, Admin user.":"Welcome, Super Admin user.")}");
     else Console.WriteLine($"{(level>=20?"Contact an Admin for access.":"You do not have sufficient privileges.")}");
 }
+
+
+//challenge
+// FizzBuzz rules:
+// Output values from 1 to 100, one number per line.
+// When the current value is divisible by 3, print the term Fizz next to the number.
+// When the current value is divisible by 5, print the term Buzz next to the number.
+// When the current value is divisible by both 3 and 5, print the term FizzBuzz next to the number.
+
+//solution by me
+for(int i=0;i<=25;i++){
+    if (i%3 == 0 ){
+        if (i%5 == 0){
+            Console.WriteLine(i+ "- FizzBuzz");
+        }
+        else{
+        Console.WriteLine(i+ "- Fizz");}
+    
+    }
+    else if ((i%5 ==0)&(i%3!= 0 )){
+        Console.WriteLine(i+ "- Buzz");
+    }
+    else{
+        Console.WriteLine(i);
+    }
+}
+
+//solution gn:
+for (int i = 1; i < 101; i++)
+{
+    if ((i % 3 == 0) && (i % 5 == 0))
+        Console.WriteLine($"{i} - FizzBuzz");
+    else if (i % 3 == 0)
+        Console.WriteLine($"{i} - Fizz");
+    else if (i % 5 == 0)
+        Console.WriteLine($"{i} - Buzz");
+    else
+        Console.WriteLine($"{i}");
+}
+
+
+//Write a do-while statement to break when a certain random number is generated
+
+//write code that will keep generating random numbers between 1 and 10 until it generates the number 7. This could take one iteration, or could possibly take dozens of iterations.
+
+Random random = new Random();
+int current = 0;
+
+do
+{
+    current = random.Next(1, 11);
+    Console.WriteLine(current);
+} while (current != 7);
+
+//Write a while statement that iterates only while a random number is greater than some value
+Random random = new Random();
+int current = random.Next(1, 11);
+
+/*
+do
+{
+    current = random.Next(1, 11);
+    Console.WriteLine(current);
+} while (current != 7);
+*/
+
+while (current >= 3)
+{
+    Console.WriteLine(current);
+    current = random.Next(1, 11);
+}
+Console.WriteLine($"Last number: {current}");
+
+
+
+Random random = new Random();
+int current = random.Next(1, 11);
+
+do
+{
+    current = random.Next(1, 11);
+
+    if (current >= 8) continue;
+
+    Console.WriteLine(current);
+} while (current != 7);
+
+/*
+while (current >= 3)
+{
+    Console.WriteLine(current);
+    current = random.Next(1, 11);
+}
+Console.WriteLine($"Last number: {current}");
+*/
+
+
+//CHALLENGE
+
+// Role playing game battle challenge
+// In most role playing games, the player's character battles non-player characters, which are usually monsters or the "bad guys." Usually, a battle consists of each character generating a random value using dice, and that value is subtracted from the opponent's health score. Once either character's health reaches zero, they die or lose.
+// In this challenge, we'll boil down that interaction to its essence. A hero and a monster start with the same health score. During the hero's turn, they'll generate a random value that will be subtracted from the monster's health. If the monster's health is greater than zero, they'll take their turn and attack the hero. As long as both the hero and the monster have health
+//  greater than zero, the battle will resume.
+
+int hero = 10;
+int monster = 10;
+
+Random dice = new Random();
+
+do
+{
+    int roll = dice.Next(1, 11);
+    monster -= roll;
+    Console.WriteLine($"Monster was damaged and lost {roll} health and now has {monster} health.");
+
+    if (monster <= 0) continue;
+
+    roll = dice.Next(1, 11);
+    hero -= roll;
+    Console.WriteLine($"Hero was damaged and lost {roll} health and now has {hero} health.");
+
+} while (hero > 0 && monster > 0);
+
+Console.WriteLine(hero > monster ? "Hero wins!" : "Monster wins!");
