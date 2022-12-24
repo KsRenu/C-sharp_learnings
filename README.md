@@ -1,16 +1,24 @@
 # C-sharp_learnings
 Practise codes and learnings in C sharp language along with the projects
 
-# Learnings:
-        1.Store and retrieve data using string literals
-        2.Perform basic string formatting in c#
-        3.perform basic operations on numbers in c#
-        4.Call methods from .NET class library using C#
-        5.Adding decision logic to the code
-        6.Arrays and foreach
-        7.Conventions, comments and witespaces
-        8.Boolean expressions
-        9.Variable scope and logic using code blocks
+# Learnings path-way:
+        1. Store and retrieve data using string literals
+        2. Perform basic string formatting in c#
+        3. Perform basic operations on numbers in c#
+        4. Call methods from .NET class library using C#
+        5. Adding decision logic to the code
+        6. Arrays and foreach
+        7. Conventions, comments and witespaces
+        8. Boolean expressions
+        9. Variable scope and logic using code blocks
+        10. Branching - switch case
+        11. Iteration - for loop
+        12. Iteration - do-while and while loop
+        13. Data types
+        14. Casting and Conversion techniques
+        15. Array operations using helper methods
+        16. Alpha numeric data for presentation
+        17. Strings and in-built functions of strings
 
 
 Sample codes implemented and outputs for the following questions: 
