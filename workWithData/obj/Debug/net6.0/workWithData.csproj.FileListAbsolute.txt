@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/bin/Debug/net6.0/workWithData
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/bin/Debug/net6.0/workWithData.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/bin/Debug/net6.0/workWithData.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/bin/Debug/net6.0/workWithData.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/bin/Debug/net6.0/workWithData.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/refint/workWithData.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/workWithData.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/workWithData/obj/Debug/net6.0/ref/workWithData.dll
