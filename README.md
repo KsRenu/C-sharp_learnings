@@ -45,4 +45,6 @@ Sample codes implemented and outputs for the following questions:
         1.helloWorld: Creation of first project and first hello world program.
         2.SampleProblems: Solutions solved for the above mentioned questions
         3.WorkoutProblems: learnings and implementations of each topic
+        4.addingLogic: branching and decision-making concepts implementation
+        5.workWithData: learnings on datatypes in C#
         Notes : C#.pages contains the hints and notes .
