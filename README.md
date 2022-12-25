@@ -15,10 +15,6 @@ Practise codes and learnings in C sharp language along with the projects
         11. Iteration - for loop
         12. Iteration - do-while and while loop
         13. Data types
-        14. Casting and Conversion techniques
-        15. Array operations using helper methods
-        16. Alpha numeric data for presentation
-        17. Strings and in-built functions of strings
 
 
 Sample codes implemented and outputs for the following questions: 
