@@ -15,10 +15,6 @@ Practise codes and learnings in C sharp language along with the projects
         11. Iteration - for loop
         12. Iteration - do-while and while loop
         13. Data types
-        14. Casting and Conversion techniques
-        15. Array operations using helper methods
-        16. Alpha numeric data for presentation
-        17. Strings and in-built functions of strings
 
 
 Sample codes implemented and outputs for the following questions: 
@@ -49,4 +45,6 @@ Sample codes implemented and outputs for the following questions:
         1.helloWorld: Creation of first project and first hello world program.
         2.SampleProblems: Solutions solved for the above mentioned questions
         3.WorkoutProblems: learnings and implementations of each topic
+        4.addingLogic: branching and decision-making concepts implementation
+        5.workWithData: learnings on datatypes in C#
         Notes : C#.pages contains the hints and notes .
