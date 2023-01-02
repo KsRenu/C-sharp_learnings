@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/bin/Debug/net6.0/arrayOperations
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/bin/Debug/net6.0/arrayOperations.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/bin/Debug/net6.0/arrayOperations.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/bin/Debug/net6.0/arrayOperations.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/bin/Debug/net6.0/arrayOperations.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/refint/arrayOperations.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/arrayOperations.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/arrayOperations/obj/Debug/net6.0/ref/arrayOperations.dll
