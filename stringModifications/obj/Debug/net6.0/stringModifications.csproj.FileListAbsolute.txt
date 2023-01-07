@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/bin/Debug/net6.0/stringModifications
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/bin/Debug/net6.0/stringModifications.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/bin/Debug/net6.0/stringModifications.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/bin/Debug/net6.0/stringModifications.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/bin/Debug/net6.0/stringModifications.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/refint/stringModifications.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/stringModifications.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/stringModifications/obj/Debug/net6.0/ref/stringModifications.dll
