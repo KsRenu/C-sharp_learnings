@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/bin/Debug/net6.0/alphaNumericData
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/bin/Debug/net6.0/alphaNumericData.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/bin/Debug/net6.0/alphaNumericData.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/bin/Debug/net6.0/alphaNumericData.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/bin/Debug/net6.0/alphaNumericData.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/refint/alphaNumericData.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/alphaNumericData.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/alphaNumericData/obj/Debug/net6.0/ref/alphaNumericData.dll
