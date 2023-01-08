@@ -74,6 +74,16 @@ namespace implementations
             System.Console.WriteLine(s3.ToUpper());
             System.Console.WriteLine(s3.ToLower());
 
+            //string interpolation
+            string s6 = $"My full name is: {s3} {s4}";
+            System.Console.WriteLine(s6);
+
+            //accessing string
+            System.Console.WriteLine(s6[5]);
+            System.Console.WriteLine(s6.IndexOf("f"));
+            int n9=s6.IndexOf("f");
+            System.Console.WriteLine(s6.Substring(n9));
+
                     }
     }
 }
