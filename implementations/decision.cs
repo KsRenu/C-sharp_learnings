@@ -1,71 +1,129 @@
+using System;
+using System.Linq;
+namespace implementation{
+    class implementations{
+        static void m1(){//without para
+                System.Console.WriteLine("From m1");
+            }
+        static void m2(string s6,int n6){//with para
+            System.Console.WriteLine(s6+ "  " + n6);
+        }
+        static void m3(string s7="s7"){//with default para
+            System.Console.WriteLine(s7);
+        }
+        static int m4(int n7,int n8){//with return value
+            return n7+n8;
+        }
+        static void m5(int n9,int n10){//named arguments
+            System.Console.WriteLine(n9 + "   " + n10);
+        }
+        static void m6(int n11){//method overloading
+            System.Console.WriteLine("Its int " + n11);
+        }
+        static void m6(double d1){
+            System.Console.WriteLine("Its double " + d1);
+        }
+        static void Main(string[] args){
 
-// //hello world
-// using System;
-// namespace implementations
-// {
-//     class implementations{
-//         static void Main(string[] args){
-//             Console.WriteLine("Hello, World!");
-//             Console.WriteLine(3 + 3);
+            //if..else if...else
+            int n1=1;
+            int n2=2;
+            if (n1==1){
+                System.Console.WriteLine("n1 is 1");
+            }
+            else if(n2==2){
+                System.Console.WriteLine("n2 is 2");
+            }
+            else{
+                System.Console.WriteLine("unknown n1 and n2");
+            }
+            //ternary operator
+            int n3 = (n2>n1)?n2:n1;
+            System.Console.WriteLine(n3);
 
-//             //variables
-//             int myNum = 5;
-//             float myNum1 = 5.75F;
-//             double myDoubleNum = 5.99D;
-//             char myLetter = 'D';
-//             bool myBool = true;
-//             string myText = "Hello";
-//             string myText1 = "Hello";
-//             string merged = myText+myText1;
-//             const int constant = 15;
-//             float f1 = 35e3F;
-//             double d1 = 12E4D;
-//             Console.WriteLine("The intiated variables are :\tint = " + myNum +"\tFloat = " + myNum1 + "\tdouble = "+ myDoubleNum + "\tchar = " + myLetter + "\tbool = "+ myBool + "\tString = "+ myText + "\tConstant = "+ constant);
-//             Console.WriteLine("Merged text is : " + merged);
-//             Console.WriteLine("The e value conversion be like: \n Float 35e3F = "+ f1 + "\n Double 12E4D = "+d1);
-
-
-//             //type casting
-//             int n1=1;
-//             double d2= n1;
-//             int n2= (int)d2;//explicit conversion;
-//             //string s1="hi";
-//             Console.WriteLine(d2);//implicit conversion;;
-//             Console.WriteLine(n2);
-//             Console.WriteLine(Convert.ToString(n1));
-//             Console.WriteLine(Convert.ToInt32(d2));
-
-
-//             //user input
-//             // Console.WriteLine("Enter your name: ");
-//             // string s2 = Console.ReadLine();
-//             // Console.WriteLine("The input string is : " + s2);
-//             // Console.WriteLine("Enter the num: ");
-//             // int n3 = Convert.ToInt32(Console.ReadLine());
-//             // Console.WriteLine("The input num is : " + n3);
-
-
-//             //operators
-//             int n4=5;
-//             System.Console.WriteLine(n4&=3);
-//             int n5=5;
-//             System.Console.WriteLine(n5|=3);
-//             int n6=5;
-//             System.Console.WriteLine(n6^=3);
-//             int n7=5;
-//             System.Console.WriteLine(n7>>=3);
-//             int n8=5;
-//             System.Console.WriteLine(n8<<=3);
+            //switch case
+            switch(n2){
+                case 1:
+                System.Console.WriteLine("n1");
+                break;
+                case 2:
+                System.Console.WriteLine("n2");
+                break;
+                default:
+                System.Console.WriteLine("unknown");
+                break;
+            
+            }
 
 
-//             //math operations
-//             System.Console.WriteLine(Math.Max(3,5));
-//             System.Console.WriteLine(Math.Min(3,5));
-//             System.Console.WriteLine(Math.Sqrt(64));
-//             System.Console.WriteLine(Math.Abs(-1.3));
-//             System.Console.WriteLine(Math.Round(9.99));
+            //looping
+            //while
+            while(n2<5){
+                System.Console.WriteLine(n2);
+                n2+=1;
+            }
 
-//                     }
-//     }
-// }
+            //do....while
+            do{
+                System.Console.WriteLine(n2);
+                n2-=1;
+            }
+            while(n2>2);
+            
+            //for
 
+            for(int i=0;i<5;i++){
+                System.Console.WriteLine(i);
+            }
+
+            //foreach loop
+            string[] s1={"s2","s3","s4","s5"};
+            foreach(string s6 in s1){
+                System.Console.WriteLine(s6);
+            }
+
+            //array
+            System.Console.WriteLine(s1.Length);
+            //initialising the array
+            string[] s2 = new string[4];
+            string[] s3 = new string[4] {"s2","s3","s4","s5"};
+            string[] s4 = new string[] {"s2","s3","s4","s5"};
+            string[] s5={"s2","s3","s4","s5"};
+
+            int[] n4={1,2,6,5};
+            Array.Sort(n4);
+            foreach(int j in n4){
+                System.Console.WriteLine(j);
+            }
+
+            //using System.Linq;
+            Console.WriteLine(n4.Max());  // returns the largest value
+            Console.WriteLine(n4.Min());  // returns the smallest value
+            Console.WriteLine(n4.Sum());
+
+            //multi-dimensional array
+            int[,] n5={ {1, 4, 2}, {3, 6, 8} };
+            foreach (int i in n5)//accessing elements using foreach
+            {
+            Console.WriteLine(i);
+            }
+            System.Console.WriteLine("using for loop");
+            for (int i = 0; i < n5.GetLength(0); i++) //use getlength not length
+            { 
+            for (int j = 0; j < n5.GetLength(1); j++) 
+            { 
+                Console.WriteLine(n5[i, j]); 
+            } 
+            }  
+            //methods
+            m1();
+            m2("s6",5);
+            m3();
+            int n8= m4(3,4);
+            System.Console.WriteLine(n8);
+            m5(n10:2,n9:1);
+            m6(3);
+            m6(4.567D);
+        }
+    }
+}
