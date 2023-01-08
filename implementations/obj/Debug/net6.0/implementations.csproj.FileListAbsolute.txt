@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/bin/Debug/net6.0/implementations
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/bin/Debug/net6.0/implementations.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/bin/Debug/net6.0/implementations.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/bin/Debug/net6.0/implementations.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/bin/Debug/net6.0/implementations.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/refint/implementations.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/implementations.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/implementations/obj/Debug/net6.0/ref/implementations.dll
