@@ -15,6 +15,11 @@ Practise codes and learnings in C sharp language along with the projects
         11. Iteration - for loop
         12. Iteration - do-while and while loop
         13. Data types
+        14. Casting and Conversion techniques
+        15. Array operations
+        16. Format alphanumeric data
+        17. Modifying string contents using built-in methods
+   
 
 
 Sample codes implemented and outputs for the following questions: 
@@ -47,4 +52,7 @@ Sample codes implemented and outputs for the following questions:
         3.WorkoutProblems: learnings and implementations of each topic
         4.addingLogic: branching and decision-making concepts implementation
         5.workWithData: learnings on datatypes in C#
-        Notes : C#.pages contains the hints and notes .
+        6.arrayOperations: array based operations - built-in functions
+        7.stringModifications: Modifying and editing the string datatype objects
+        8.alphaNumericData: preparing data for presentation
+        Notes : C#.pages contains the hints and notes , Questions.pages holds the   questions
