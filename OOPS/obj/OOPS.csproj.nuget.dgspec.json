@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Github\\C-sharp_learnings\\OOPS\\OOPS.csproj": {}
+    "/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/OOPS.csproj": {}
   },
   "projects": {
-    "E:\\Github\\C-sharp_learnings\\OOPS\\OOPS.csproj": {
+    "/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/OOPS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Github\\C-sharp_learnings\\OOPS\\OOPS.csproj",
+        "projectUniqueName": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/OOPS.csproj",
         "projectName": "OOPS",
-        "projectPath": "E:\\Github\\C-sharp_learnings\\OOPS\\OOPS.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Github\\C-sharp_learnings\\OOPS\\obj\\",
+        "projectPath": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/OOPS.csproj",
+        "packagesPath": "/Users/Renu/.nuget/packages/",
+        "outputPath": "/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/Renu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.402/RuntimeIdentifierGraph.json"
         }
       }
     }
