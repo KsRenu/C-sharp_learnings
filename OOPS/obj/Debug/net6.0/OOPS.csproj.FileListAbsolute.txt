@@ -1,0 +1,15 @@
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.csproj.AssemblyReference.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.AssemblyInfoInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.AssemblyInfo.cs
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.csproj.CoreCompileInputs.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/bin/Debug/net6.0/OOPS
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/bin/Debug/net6.0/OOPS.deps.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/bin/Debug/net6.0/OOPS.runtimeconfig.json
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/bin/Debug/net6.0/OOPS.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/bin/Debug/net6.0/OOPS.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/refint/OOPS.dll
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.pdb
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/OOPS.genruntimeconfig.cache
+/Users/Renu/Desktop/GitHub/C-sharp_learnings/OOPS/obj/Debug/net6.0/ref/OOPS.dll
