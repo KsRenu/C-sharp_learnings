@@ -19,6 +19,9 @@ Practise codes and learnings in C sharp language along with the projects
         15. Array operations
         16. Format alphanumeric data
         17. Modifying string contents using built-in methods
+        18.  Enum, Structures, Files, Exception
+        19.  Nullables, Parram Arrays, class & objects, Interface
+        20. OOPS Concepts : Abstraction, Encapsulation, Inheritance, Polymorphism. 
    
 
 
@@ -55,4 +58,7 @@ Sample codes implemented and outputs for the following questions:
         6.arrayOperations: array based operations - built-in functions
         7.stringModifications: Modifying and editing the string datatype objects
         8.alphaNumericData: preparing data for presentation
+        9.implementations : works on all the gained basic concepts
+        10.advanceDataType : structure functionalities used
+        11.OOPS : implementing the various OOPS concepts
         Notes : C#.pages contains the hints and notes , Questions.pages holds the   questions
