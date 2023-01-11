@@ -1,0 +1,15 @@
+E:\Github\C-sharp_learnings\advanceDataType\bin\Debug\net6.0\advanceDataType.exe
+E:\Github\C-sharp_learnings\advanceDataType\bin\Debug\net6.0\advanceDataType.deps.json
+E:\Github\C-sharp_learnings\advanceDataType\bin\Debug\net6.0\advanceDataType.runtimeconfig.json
+E:\Github\C-sharp_learnings\advanceDataType\bin\Debug\net6.0\advanceDataType.dll
+E:\Github\C-sharp_learnings\advanceDataType\bin\Debug\net6.0\advanceDataType.pdb
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.csproj.AssemblyReference.cache
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.GeneratedMSBuildEditorConfig.editorconfig
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.AssemblyInfoInputs.cache
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.AssemblyInfo.cs
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.csproj.CoreCompileInputs.cache
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.dll
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\refint\advanceDataType.dll
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.pdb
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\advanceDataType.genruntimeconfig.cache
+E:\Github\C-sharp_learnings\advanceDataType\obj\Debug\net6.0\ref\advanceDataType.dll
